@@ -20,3 +20,4 @@ cd YOUR_PROJECT
 yarn unlink beagle-react react react-dom
 yarn install --force
 ```
+
